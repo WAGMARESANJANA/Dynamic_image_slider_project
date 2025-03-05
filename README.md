@@ -16,7 +16,7 @@ This project is a simple **Image Slider** built with HTML, CSS, and JavaScript. 
 ## How to Use
 1. Clone or download the repository.
    ```sh
-   git clone https://github.com/yourusername/image-slider.git
+   git clone https://github.com/WAGMARESANJANA/Dynamic_image_slider_project.git
    ```
 2. Open `index.html` in a browser.
 3. Click the left and right buttons to navigate between images.
